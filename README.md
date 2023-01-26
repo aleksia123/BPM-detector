@@ -14,5 +14,4 @@ https://breakfastquay.com/rubberband/
 pip install numpy wave aubio
 run the program
 ```
-![The San Juan Mountains are beautiful!]( "San Juan Mountains")
-
+![python_bpm](https://user-images.githubusercontent.com/59471962/214914439-99156cd5-1ce7-4842-8568-d89aea2f5ae5.png)
